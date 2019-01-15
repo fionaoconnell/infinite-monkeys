@@ -1,8 +1,16 @@
-.row {
+h1 {
+  font-family: 'Special Elite', monospace;
+}
+
+h2 {
+  font-family: 'Special Elite', monospace;
+}
+
+body.row {
   display: flex;
 }
 
-.column {
+body.column {
   flex: 20%;
   padding: 5px;
 }
