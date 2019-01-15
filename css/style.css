@@ -1,8 +1,8 @@
-body.row {
+.row {
   display: flex;
 }
 
-body.column {
+.column {
   flex: 20%;
   padding: 5px;
 }
