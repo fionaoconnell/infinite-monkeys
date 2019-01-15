@@ -1,8 +1,8 @@
-.row {
+body.row {
   display: flex;
 }
 
-.column {
+body.column {
   flex: 33.33%;
   padding: 5px;
 }
