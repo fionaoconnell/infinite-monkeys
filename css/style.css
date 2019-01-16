@@ -1,9 +1,11 @@
 h1 {
   font-family: 'Emblema One', cursive;
+  color: rgb(60, 99, 142);
 }
 
 h4 {
   font-family: 'Cutive Mono', monospace;
+  color: rgb(60, 99, 142);
 }
 
 .row {
